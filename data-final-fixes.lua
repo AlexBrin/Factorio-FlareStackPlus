@@ -11,7 +11,7 @@ function get_icons(prototype)
   end
 end
 local no_icon = {
-  icon = "__Flare Stack Plus__/graphics/icon/no.png",
+  icon = "__flare-stack-plus__/graphics/icon/no.png",
   icon_size = 32
 }
 
