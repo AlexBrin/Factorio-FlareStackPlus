@@ -1,0 +1,17 @@
+{
+	"name": "Flare Stack Plus",
+	"version": "1.0.0",
+	"title": "Flare Stack Plus",
+	"author": "AlexBrin",
+	"homepage": "https://forums.factorio.com/viewtopic.php?f=93&t=21586",
+	"description": "Adds structures to dispose of unwanted items and fluids with Space Exploration support.",
+	"factorio_version": "1.1",
+	"dependencies": [
+		"? space-exploration",
+		"(?)deadlock_stacked_recipes",
+		"(?)DeadlockStackingForAngles",
+		"(?)DeadlockStackingForBobs",
+		"(?)DeadlockStackingForVanilla",
+		"! Flare Stack"
+	]
+}
